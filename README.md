@@ -8,4 +8,4 @@ This is a Python script for parsing Zenmap XML output files and extracting impor
 
 ##  Usage  
 
-The script takes as input the path to a Zenmap XML output file and extracts information such as open ports, operating systems, and services running on the scanned hosts. The output is saved in a CSV file that can be easily imported into a spreadsheet program for further analysis.
+The script takes as input the path to a Zenmap XML output file and extracts information such as open ports, operating systems, and services running on the scanned hosts. The output is displayed as shown in Google_Collab notebook file.
